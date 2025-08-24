@@ -17,9 +17,8 @@ Com esta API, é possível gerar códigos temporários, validar a entrada do usu
 
 ## 🛠️ Principais Tecnologias e Bibliotecas
 
-- 🌐 **FastAPI** ou **Flask**: framework para construção de APIs RESTful.
+- 🌐 **Flask**: framework para construção de APIs RESTful.
 - 📝 **logging**: registro de logs das operações.
-- 🛡️ **uvicorn** ou **gunicorn**: servidores para deploy da API.
 - 📦 Outras utilidades descritas em `requirements.txt`.
 
 *Consulte o arquivo [`requirements.txt`](./requirements.txt) para a lista completa de dependências.*
